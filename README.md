@@ -27,7 +27,7 @@ git clone https://github.com/ZhaoHengheng123-star/liveness-detection.git
 
 <br>First pick up the phone and take a selfie for about 30 seconds (depending on the number of training data sets you want), walk around and show various micro-expressions, called `real.mp4`；<br><br>
 
-Use the computer camera to shot the phone while the phone is playing the `real.mp4`, or mp4 is shot directly with the computer camera, during which various micro-expressions are displayed and the distance is constantly changed, also in about 30 seconds, and it is called 'fake.mp4'；<br><br>
+Use the computer camera to shot the phone while the phone is playing the `real.mp4`, or mp4 is shot directly with the computer camera, during which various micro-expressions are displayed and the distance is constantly changed, also in about 30 seconds, and it is called `fake.mp4`；<br><br>
 
 Put the two videos above in `videos/` folder. <br><br>
 
