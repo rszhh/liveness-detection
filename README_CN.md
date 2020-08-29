@@ -16,7 +16,7 @@ numpy 1.18.2 <br><br>
 ```text
 git clone https://github.com/ZhaoHengheng123-star/liveness-detection.git
 ```
-<br>
+
 
 ### 1. 制作训练数据集
 
@@ -37,7 +37,7 @@ python gather.py --input videos/fake.mp4 --output dataset/fake --detector face_d
 ```
 python gather.py --input videos/real.mov --output dataset/real --detector face_detector --skip 4
 ```
-<br>
+
 <br>
 
 ### 3. 训练活体检测器
