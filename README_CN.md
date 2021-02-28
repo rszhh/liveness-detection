@@ -14,7 +14,7 @@ numpy 1.18.2 <br><br>
 <br>
 
 ```text
-git clone https://github.com/rszhh/asms.git
+git clone https://github.com/rszhh/liveness-detection.git
 ```
 
 
