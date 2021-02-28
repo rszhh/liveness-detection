@@ -20,7 +20,7 @@ numpy 1.18.2 <br><br>
 <br>
 
 ```text
-git clone https://github.com/ZhaoHengheng123-star/liveness-detection.git
+git clone https://github.com/rszhh/asms.git
 ```
 
 ### 1. Create training datasets
